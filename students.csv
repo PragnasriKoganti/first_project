@@ -1,0 +1,11 @@
+study_hours,attendance,previous_grade,internet_access,parent_education,final_score
+6,88,B,yes,high,72
+3,65,C,no,medium,48
+2,60,D,yes,low,30
+8,92,A,yes,high,85
+4,70,C,no,medium,55
+7,80,B,yes,low,66
+1,50,D,no,low,28
+5,75,C,yes,medium,60
+9,95,A,yes,high,90
+2,55,D,no,low,35
